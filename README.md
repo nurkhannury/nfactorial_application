@@ -1,3 +1,5 @@
+**Task 3 - Система управления билетами в кинотеатр**
+
 Имя: Nurkhan Nurymzhanov
 Аппликант программы **nFactorial Backend - введение в Python разработку** по гранту **TechOrda**
 
