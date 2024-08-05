@@ -8,6 +8,10 @@
 2. Nfactorial/src/Ticket.java - дополнение к первому файлу. Написан класс билетов для удобства
 3. Nfactorial/src/Main.java - **файл для запуска**
 
+Я запускаю в программе IntelliJ IDEA
+
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/f568df00-efc3-49d4-8c21-e1401ac38f64">
+
 
 **Пример запуска**
 После запуска программы вы увидите меню с доступными функциями:
